@@ -3369,3 +3369,28 @@ h3.blog-title {
         font-size: 13px
     }
 }
+
+
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #f5f5f5;
+    color: #333;
+}
+
+/* Responsive adjustments */
+.bhoechie-tab-content {
+    padding: 20px;
+}
+
+.tabs-img img {
+    max-width: 100%;
+    height: auto;
+}
+
+.left-service {
+    margin-top: 20px;
+}
